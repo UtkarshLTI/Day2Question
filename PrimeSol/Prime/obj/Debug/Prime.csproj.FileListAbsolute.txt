@@ -1,0 +1,7 @@
+H:\LTI\Splz\Day2\PrimeSol\Prime\bin\Debug\Prime.exe.config
+H:\LTI\Splz\Day2\PrimeSol\Prime\bin\Debug\Prime.exe
+H:\LTI\Splz\Day2\PrimeSol\Prime\bin\Debug\Prime.pdb
+H:\LTI\Splz\Day2\PrimeSol\Prime\obj\Debug\Prime.csprojAssemblyReference.cache
+H:\LTI\Splz\Day2\PrimeSol\Prime\obj\Debug\Prime.csproj.CoreCompileInputs.cache
+H:\LTI\Splz\Day2\PrimeSol\Prime\obj\Debug\Prime.exe
+H:\LTI\Splz\Day2\PrimeSol\Prime\obj\Debug\Prime.pdb
