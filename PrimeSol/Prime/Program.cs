@@ -27,6 +27,7 @@ namespace Prime
                     Console.Write("{0} ", i);
             }
             Console.Write("\n");
+            
         }
         static void Main(string[] args)
         {
@@ -35,6 +36,7 @@ namespace Prime
             Console.WriteLine("Enter no. 2");
             int no2 = Convert.ToInt32(Console.ReadLine());
             new Program().Prime(no1,no2);
+            Console.WriteLine("Vaishnavi");
             Console.ReadKey();
         }
     }
